@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "skipInstall": true,
+    "project": "angular-pwa-workflow",
+    "provider": "aws",
+    "directory": "angular-pwa-workflow",
+    "name": "angular-pwa-workflow",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
