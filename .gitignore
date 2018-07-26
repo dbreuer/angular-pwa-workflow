@@ -15,3 +15,5 @@ dll
 /firebug-lite
 firebug-lite.tar.tgz
 /coverage
+npm-debug.log
+/*.env
