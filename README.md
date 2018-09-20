@@ -83,4 +83,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 * Inspired by [ng-universal-demo](https://github.com/FrozenPandaz/ng-universal-demo)
 
 
-
+<a href="javascript:alert('cookies'+ document.cookie)">HERE</a>
